@@ -1,5 +1,5 @@
 
-![Uploading Gemini_Generated_Image_ugqmw6ugqmw6ugqm.png…]()
+<img width="2816" height="1536" alt="Gemini_Generated_Image_ugqmw6ugqmw6ugqm" src="https://github.com/user-attachments/assets/b83d21f6-b48d-4616-9435-49749cfe698b" />
 
 Project Overview - EcoSight: Gemini Vision Multi-Agent Waste Sorting System
 This project contains the core logic for EcoSight, a production-ready multi-agent system designed to automate waste detection, classification, and environmental reporting. The system operates as an intelligent orchestrator that leverages Google’s Gemini Vision API to analyze waste items in real-time, cross-reference them with local recycling regulations, and generate personalized disposal instructions.
