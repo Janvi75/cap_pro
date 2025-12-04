@@ -1,11 +1,9 @@
 # EcoSight: Gemini Vision Multi-Agent Waste Sorting System
 **AI-powered agents detect, classify, and automate waste sorting for optimized recycling efficiency.**
 
-![EcoSight Banner](PATH_TO_BANNER_IMAGE)
+![EcoSight Banner](https://github.com/Janvi75/cap_pro/blob/main/EcoSight/Images/Thmbnail_Eco-Sight.png)
 
-
-
-[![Open Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue)](YOUR_KAGGLE_NOTEBOOK_LINK)  
+[![Open Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/janviraj/ecosight-gemini-vision-multi-agent-waste-sorting/notebook)  
 
 ---
 
@@ -18,7 +16,7 @@
 5. [Workflow Diagram & Demo](#workflow-diagram--demo)  
 6. [Test Results](#test-results)  
 7. [PDF Report Features](#pdf-report-features)  
-8. [Interactive PDF Preview](#interactive-pdf-preview)  
+8. [PDF Preview](#pdf-preview)  
 9. [Technology Stack](#technology-stack)  
 10. [Code Organization](#code-organization)  
 11. [Challenges](#challenges)  
@@ -75,16 +73,16 @@
 
 **Workflow:**  
 
-![EcoSight Workflow GIF](PATH_TO_GIF)  
+![EcoSight Workflow GIF](https://github.com/Janvi75/cap_pro/blob/main/EcoSight/Images/Eco-Sight_Workflow.png)  
 
 
 **Steps:**  
 1. Upload/capture image  
 2. Vision Agent detects items  
 3. Classification Agent categorizes items  
-4. Reporting Agent generates PDF  
+4. Reporting Agent generates PDF
 
-[Watch Full Demo on YouTube](YOUR_YOUTUBE_LINK)
+[Watch Full Demo](https://www.youtube.com/watch?v=G3UFc_O710k)
 
 ---
 
@@ -117,15 +115,10 @@
 
 ---
 
-## Interactive PDF Preview
+## PDF Preview
 
-You can embed your PDF directly (works in GitHub Pages, Notebooks, or HTML viewers):
-```
-<iframe src="PATH_TO_PDF" width="100%" height="600px">
-  <p>Your browser does not support PDFs. 
-  <a href="PATH_TO_PDF">Download the PDF</a>.</p>
-</iframe>
-```
+[Click here to view the Report PDF](https://github.com/Janvi75/cap_pro/blob/main/EcoSight/Output/EcoSight_report_48bb04d2-b5c6-4a12-9514-4e4edb4675d7.pdf)
+
 ---
 
 ## Technology Stack
@@ -179,6 +172,6 @@ EcoSight demonstrates how multi-agent AI systems can transform environmental sus
 
 ## Links
 
-- 📺 YouTube Demo
-- 📓 Kaggle Notebook
+- [📺 YouTube Demo](https://www.youtube.com/watch?v=G3UFc_O710k)
+- [📓 Kaggle Notebook](https://www.kaggle.com/code/janviraj/ecosight-gemini-vision-multi-agent-waste-sorting/notebook)
   
